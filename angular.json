@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "tour-of-heroes": {
+    "angular.io-example": {
       "projectType": "application",
       "root": "",
       "sourceRoot": "src",
@@ -102,6 +102,6 @@
     }
   },
   "cli": {
-    "analytics": "ab0a9d51-4093-4d3a-acf6-1aa2b2112a8e"
+    "analytics": "235a47af-b62d-4d5c-8867-950e467dd44a"
   }
 }
